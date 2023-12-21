@@ -2,7 +2,7 @@
   <img align="center" width="400" src="/profile/img/logo (1).png" />
 </p>
 <h1 align="center">Chickcare</h1>
-<h2 align="center"></h2>
+<h2 align="center">Kunci Sukses Peternakan Ayam</h2>
 
 <h3 align="center">Bangkit 2023 Capstone Team: CH2-PS465</h3>
 
